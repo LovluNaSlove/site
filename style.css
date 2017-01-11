@@ -1,6 +1,13 @@
 body {
-    background: green;
+    background: #445;
 }
 h1 {
-    font-size: 80px;
+    font-size: 42px;
+    text-shadow: 1px 1px 1px ;
+    text-align: center;
+}
+
+body div p {
+    font-size: 20px;
+    text-shadow: 1px 1px 1px ;
 }
